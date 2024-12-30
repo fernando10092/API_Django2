@@ -1,0 +1,4 @@
+django-admin startproject myproject .
+django-admin startapp myapp
+
+python manage.py createsuperuser
